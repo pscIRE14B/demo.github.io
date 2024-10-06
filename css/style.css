@@ -10,10 +10,13 @@
     background-color: #8C8C8C;
 }
 
-.navbar-container{
+.navbar-container {
+    top: 0; /* Added colon after 'top' */
     background-color: #262B38;
-
+    position: sticky;
+    z-index: 2;
 }
+
 
 .about-container{
     background-color:#00BDBD;
@@ -22,7 +25,7 @@
     background-color:#EEEEEE ;
 }
 
-.bg-redtype{
+.bg-redtype:hover{
     background-color: #FB857F;
 }
 .redtype-color{
@@ -33,5 +36,19 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
+
+}
+
+.Project-container{
+    background-color: #2bb3dd; ;
+
+
+}
+
+.form-container{
+    background-color: #474D5D;
+}
+.inner-form{
+    background-color:#5B5F73 ;
 
 }
