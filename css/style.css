@@ -25,8 +25,12 @@
     background-color:#EEEEEE ;
 }
 
-.bg-redtype:hover{
+.bg-redtype{
     background-color: #FB857F;
+}
+
+.bg-redtype:hover{
+    color: black!important;
 }
 .redtype-color{
     color: #FB857F;
@@ -48,6 +52,7 @@
 .form-container{
     background-color: #474D5D;
 }
+
 .inner-form{
     background-color:#5B5F73 ;
 
