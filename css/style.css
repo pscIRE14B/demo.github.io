@@ -57,3 +57,24 @@
     background-color:#5B5F73 ;
 
 }
+.footer{
+    background-color: #00BDBD;
+}
+
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    coler :#262B38
+}
+
+
+.circle :hover{
+   
+    background-color: #262B38;
+    
+}
